@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lesecretsdecarla.fr/sitemap.xml
+Sitemap: https://lessecretsdecarla.fr/sitemap.xml
