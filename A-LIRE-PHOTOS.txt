@@ -1,0 +1,7 @@
+PHOTOS DU SITE
+
+Toutes les photos sont dans le dossier photos/ (recadrées et compressées à partir du dossier « agent carla »).
+Pour changer une photo : remplacez le fichier par un autre portant EXACTEMENT le même nom.
+Pour ajouter une vidéo en haut de l'accueil : déposez videos/hero.mp4 (10 à 20 s, muette, moins de 8 Mo) et reconstruisez le site.
+
+Fichiers : appareil-laser.jpg, avant-apres-1.jpg, avant-apres-2.jpg, avant-apres-electrolyse.jpg, avant-apres-nuque.jpg, avant-apres-seances.jpg, bandeau-marque.jpg, cabine.jpg, carla-portrait.jpg, carte-electrolyse.jpg, carte-laser-femme.jpg, carte-laser-homme.jpg, carte-maillot.jpg, cert-electrolyse.jpg, cert-ipl.jpg, cert-laser.jpg, electrolyse-bw.jpg, electrolyse.jpg, hero.jpg, homme-barbe.jpg, homme-dos.jpg, homme-hero.jpg, homme-sport.jpg, homme.jpg, jambe-laser-bw.jpg, jambes-bw.jpg, jambes.jpg, laser-seance.jpg, logo-blanc.png, logo-noir.png, partage.jpg, peau-mate.jpg
