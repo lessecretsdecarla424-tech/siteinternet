@@ -301,7 +301,7 @@ footer .logo .mark .w{display:none}footer .logo .mark .k{display:block}
 .menu>a,.menu .dd>a{white-space:nowrap}
 .topbar .in{gap:20px}
 .logo b{font-size:19px}
-@media (max-width:1240px){
+@media (max-width:1080px){
   .menu{display:none;position:fixed;inset:76px 0 0 0;background:var(--white);flex-direction:column;align-items:stretch;padding:20px;gap:0;overflow:auto}
   .menu.open{display:flex}
   .menu>a,.menu .dd>a{color:var(--black)!important;font-size:20px;font-weight:700;padding:14px 0;border-bottom:1px solid var(--line);border-radius:0}
@@ -376,3 +376,5 @@ h2.sm{font-size:1.25rem;letter-spacing:0}
 }
 @media (max-width:520px){.logo b{font-size:15px;letter-spacing:.05em;white-space:nowrap}.logo small{font-size:8.5px;letter-spacing:.22em}.topbar .in{padding-block:12px}}
 @media (max-width:760px){.atouts{grid-template-columns:1fr 1fr;gap:22px 16px}.atout svg{width:30px;height:30px}.atout b{font-size:15.5px}.atout span{font-size:14px}}
+
+@media (min-width:1081px) and (max-width:1240px){.topbar .tel{display:none}.menu>a,.menu .dd>a{padding:8px 7px;font-size:13.5px}.logo b{font-size:17px}.logo .mark{width:44px;height:44px}}
